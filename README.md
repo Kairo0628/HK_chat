@@ -1,1 +1,1 @@
-# ml_dl_tutorials
+# django를 활용한 간단 챗봇 사이트 만들기
